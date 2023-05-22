@@ -1,5 +1,5 @@
-# Advent of Code Template
+# Advent of Code 2021
 
-This project contains a template for solutions to the Advent of Code competition (https://adventofcode.com/). 
+This project contains my solutions to the Advent of Code 2021 (https://adventofcode.com/2021/).
 
-All of this was created just for fun, so no guarantees on anything.
+I participated in this just for fun, so no guarantees on anything.

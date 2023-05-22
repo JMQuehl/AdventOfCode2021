@@ -2,8 +2,8 @@ import sys
 import os
 
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
-from advent_of_code_template.TaskFactory import create_all_tasks, create_single_task
-from advent_of_code_template.advent_of_code_utils import parse_args
+from advent_of_code_2021.TaskFactory import create_all_tasks, create_single_task
+from advent_of_code_2021.advent_of_code_utils import parse_args
 
 
 def main() -> int:
