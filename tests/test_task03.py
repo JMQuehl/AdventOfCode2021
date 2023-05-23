@@ -19,4 +19,4 @@ class Task03Tests(TaskTest, unittest.TestCase):
                    "00010\n",
                    "01010"]
     known_output = 198
-    known_bonus_output = -1
+    known_bonus_output = 230
